@@ -1,0 +1,8 @@
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.deps.json
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.dll
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.pdb
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.csprojAssemblyReference.cache
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.AssemblyInfoInputs.cache
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.AssemblyInfo.cs
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.dll
+C:\Users\boehm\source\repos\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.pdb
